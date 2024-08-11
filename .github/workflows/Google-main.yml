@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927006499504",
+    "project_id": "gen-lang-client-0127866309",
+    "storage_bucket": "gen-lang-client-0127866309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927006499504:android:fc3633fab9223c5ba15175",
+        "android_client_info": {
+          "package_name": "com.vip.dirtyhabits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJ6t7p1spuFnZV_N7ptRosoJv4dn2X5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
